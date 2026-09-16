@@ -1,0 +1,6 @@
+{
+  "name": "NutriLens - Control de Calorías con IA",
+  "description": "Aplicación móvil integral para el control y seguimiento de calorías y macronutrientes con reconocimiento visual de alimentos por IA, cálculo de requerimientos calóricos personalizados y planificador nutricional.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
